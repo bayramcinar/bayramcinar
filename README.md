@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥷I'm currently working on Web Developing<br>💥I'm learning React and NodeJS<br>⚡Ask me about Web Developing <br>✏️I'm studying Computer Engineering at Cukurova University (3/4)
+🥷I'm currently working on Web Developing<br>💥I'm learning React and NodeJS<br>⚡Ask me about Web Developing <br>✏️I'm studying Computer Engineering at Cukurova University (4/4)
 
 
 ## 🌐 Socials:
